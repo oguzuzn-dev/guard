@@ -142,4 +142,4 @@ nginx -s reload && tail -f /var/log/nginx/error.log
 ** Project is under the development **
 
 ## Licence
--CC0 licence - see licence file.
+-CC0 licence - look licence file for details.
